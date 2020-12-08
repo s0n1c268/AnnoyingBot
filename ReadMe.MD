@@ -1,0 +1,1 @@
+Ladies and Gentlemen, I present you Annoying Bot. A bot that randomly pings people infinite amount of times. I am not responsible for what you do with this bot. I made this for educational and cringe purposes. 
