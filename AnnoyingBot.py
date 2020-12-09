@@ -9,7 +9,7 @@ token = 'Api Token'
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="Sonic Coding | use prefix: ?"))
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="Sonic Coding | use prefix: !"))
     print('Bot is ready.')
 
 @bot.event
